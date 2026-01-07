@@ -74,7 +74,7 @@ Python - Hashtag Treinamentos/
 │   └── Hashtag_logo.jpeg
 │   └── Hashtag_logo2.jpeg
 ├── módulos/
-│       └──módulo(1,2,3,4,5..., cores.py)/
+│       └──módulo(1,2,3,4,5..., cores.py, exércicios_do_módulo.py e .ipynb)/
 │           └── (conteúdos dos módulos de estudo)
 ├── README.MD
 └── LICENSE (MIT)
