@@ -89,11 +89,13 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
 <h2 align="center">⛏️💻 Ferramentas Utilizadas: </h2>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/-👾 Python_e_Automação-4B0082?style=for-the-badge&logoColor=white" height="28"/>
- <img src="https://img.shields.io/badge/-Python%20para%20Email-FF6600?style=for-the-badge&logo=gmail&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black" height="28">
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/-Emails%20automatizados%20com%20Python-FF0000?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
 </div>
