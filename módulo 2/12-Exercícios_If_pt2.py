@@ -42,9 +42,9 @@ bebida = 75
 limpeza = 35
 
 nome_produto = str(input(f"\n {Negrito}Digite o Nome do Produto: {Reset}")).strip()
-while (nome_produto == "" or nome_produto==" "):
-    print(f"{Vermelho}Termo: 'Nome do Produto' vazio.❌ Digite novamente {Reset}")
-    nome_produto = str(input(f"\n {Negrito}Digite o Nome do Produto: {Reset}")).strip()
+while not nome_produto.isalpha():
+     print(f"{Vermelho}Termo: 'Nome do Produto' inválido por não ser uma string.❌ Digite novamente {Reset}")
+     nome_produto = str(input(f"\n {Negrito}Digite o Nome do Produto: {Reset}")).strip()
 
 categoria_produto = str(input(f"\n {Negrito}Digite a Categoria do Produto: {Reset}")).strip().lower()
 while categoria_produto == "" or categoria_produto == " " or categoria_produto not in ["comida", "bebida", "limpeza"]:
