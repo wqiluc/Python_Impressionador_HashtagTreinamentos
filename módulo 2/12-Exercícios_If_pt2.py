@@ -39,10 +39,10 @@ print(f"{Azul}{Negrito}SEU CÓDIGO–RESPOSTA AQUI ⬇️{Reset}")
 
 alimento = 50
 bebida = 75
-limpeza = 35
+limpeza = 30
 
 nome_produto = str(input(f"\n {Negrito}Digite o Nome do Produto: {Reset}")).strip()
-while not nome_produto.isalpha():
+while not nome_produto.replace(" ", "", 20).isalpha():
      print(f"{Vermelho}Termo: 'Nome do Produto' inválido por não ser uma string.❌ Digite novamente {Reset}")
      nome_produto = str(input(f"\n {Negrito}Digite o Nome do Produto: {Reset}")).strip()
 
@@ -64,18 +64,18 @@ while estoque_produto <= 0:
 
 if categoria_produto == "comida" or categoria_produto=="alimento":
     if estoque_produto < alimento:
-        print(f"{Vermelho}Estoque de {categoria_produto} Insuficiente ❌. É necessário ordenar{Reset} + {alimento-estoque_produto}{Reset}{Vermelho} desse produto {Reset}\n")
+        print(f"\n{Vermelho}Estoque de {categoria_produto} Insuficiente ❌. É necessário ordenar{Reset} + {alimento-estoque_produto}{Reset}{Vermelho} desse produto {Reset}\n")
     else:
-        print(f"{Verde}Estoque de {categoria_produto} Preenchido ✅👍{Reset}\n")
+        print(f"\n{Verde}Estoque de {categoria_produto} Preenchido com Folga de: {estoque_produto-alimento} produto(os) ✅👍{Reset}\n")
 
 elif categoria_produto == "bebida":
     if estoque_produto < bebida:
-        print(f"{Vermelho}Estoque de {categoria_produto} Insuficiente ❌ É necessário ordenar {Reset}+ {bebida-estoque_produto}{Reset}{Vermelho} desse produto {Reset}\n")
+        print(f"\n{Vermelho}Estoque de {categoria_produto} Insuficiente ❌ É necessário ordenar {Reset}+ {bebida-estoque_produto}{Reset}{Vermelho} desse produto {Reset}\n")
     else:
-        print(f"{Verde}Estoque de {categoria_produto} Preenchido ✅👍{Reset}")
+        print(f"\n{Verde}Estoque de {categoria_produto} Preenchido Preenchido com Folga de: {estoque_produto-bebida} produto(os) ✅👍 {Reset}")
 
 elif categoria_produto == "limpeza":
     if estoque_produto < limpeza:
-        print(f"{Vermelho}Estoque de {categoria_produto} Insuficiente ❌ É neceesário ordenar {Reset}+ {limpeza-estoque_produto}{Reset}{Vermelho} desse produto {Reset}\n")
+        print(f"\n{Vermelho}Estoque de {categoria_produto} Insuficiente ❌ É neceesário ordenar {Reset}+ {limpeza-estoque_produto}{Reset}{Vermelho} desse produto {Reset}\n")
     else:
-        print(f"{Verde}Estoque de {categoria_produto} Preenchido ✅👍{Reset}\n")
+        print(f"\n{Verde}Estoque de {categoria_produto} Preenchido Preenchido com Folga de: {estoque_produto-limpeza} produto(os) ✅👍 {Reset}\n")
