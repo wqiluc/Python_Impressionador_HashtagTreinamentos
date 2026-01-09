@@ -458,3 +458,51 @@ if (pagamento) == 2: # Cartão 💳
 else:
     print(f"\n✅💵 {Negrito}Pagamento em dinheiro{Reset}")
     print(f"💸 Valor final: {Negrito}R$ {total:.2f}{Reset}")
+
+# 23 = Tinta 🫟:
+from cores import(Negrito,Reset)
+area = float(input(f"{Negrito}Informe o tamanho da área a ser pintada em m²: {Reset}"))
+
+litro = area / 6
+
+tinta_lata = (litros / 18)
+galao1 = litros*80
+
+tinta_galao = (litros / 3.6)
+galao2 = litros*25
+
+print(f"""
+{Negrito}Resultado:{Reset}
+
+Quantidade de latas de 18L: {tinta_lata}
+Preço total com latas: R$ {galao1:.2f}
+
+Quantidade de galões de 3,6L: {tinta_galao}
+Preço total com galões: R$ {galao2:.2f}""")
+
+##2:
+from cores import (Negrito, Reset)
+
+area = float(input(f"{Negrito}Informe o tamanho da área a ser pintada em m²: {Reset}"))
+
+litros = area / 6
+
+latas = int(litros // 18)
+resto = litros - (latas * 18)
+
+galoes = (resto / 3.6)
+
+if galoes > 3:
+    latas += 1
+    galoes = 0
+
+preco_total = (latas * 80) + (galoes * 25)
+
+print(f"""
+{Negrito}Resultado:{Reset}
+
+Latas de 18L: {latas}
+Galões de 3,6L: {galoes}
+
+Preço total: R$ {preco_total:.2f}
+""")
