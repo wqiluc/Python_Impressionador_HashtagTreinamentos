@@ -51,7 +51,7 @@
   <img src="img/Hashtag_logo.jpeg" height="28" alt="Hashtag Treinamentos">
 </a>
 <a href="https://www.youtube.com/@HashtagProgramacao">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black">
 </a>
 <a href="https://www.instagram.com/hashtagtreinamentos/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
