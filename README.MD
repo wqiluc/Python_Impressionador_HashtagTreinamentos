@@ -67,7 +67,7 @@
 </h2>
 
 <pre>
-Python - Hashtag Treinamentos/
+Python Impressionador - Hashtag Treinamentos/
 ├── img/ 
 │   └── Hashtag_logo.jpeg
 │   └── Hashtag_logo2.jpeg
