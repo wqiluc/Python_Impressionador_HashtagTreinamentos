@@ -20,7 +20,7 @@
 <div align="center">
 
 <strong>Lucas Paguetti Pereira</strong> 🧙‍♂️  
-🏫 Instituição: Cesar School 🎓🧡  
+🏫 <strong>Instituição</strong>: Cesar School 🎓🧡  
 📍 Recife, Pernambuco — <strong>Brazil</strong> 🇧🇷  
 
 <br>
