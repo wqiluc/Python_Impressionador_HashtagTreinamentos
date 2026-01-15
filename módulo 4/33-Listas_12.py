@@ -28,9 +28,9 @@ print(f"{Azul}{Negrito}✏️ ALTERAÇÃO DE DADOS (LIRA){Reset}")
 print(f"{Magenta}Nova venda de iPhone de Lira:{Reset} {Verde}{vendas[0][1]}{Reset}\n")
 
 produtos.append('mac')
-for i in range(len(vendas)):
-    vendas[i].append(0)
+for macOS in range(len(vendas)):
+    vendas[macOS].append(0)
 
-print(f"{Azul}{Negrito}🆕 NOVO PRODUTO ADICIONADO{Reset}")
+print(f"{Azul}{Negrito}🆕 NOVO PRODUTO ADICIONADO ✚ {Reset}")
 print(f"{Magenta}Produtos atuais:{Reset} {Amarelo}{produtos}{Reset}")
 print(f"{Magenta}Nova tabela de vendas:{Reset} {Amarelo}{vendas}{Reset}\n")
