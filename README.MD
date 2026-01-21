@@ -63,7 +63,9 @@
 </div>
 
 <h2 align="center">
-  📁 Estrutura do Projeto:
+  🏛️ Arquitetura do Projeto: <br>
+  <img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=instructure&logoColor=white" 
+     style="vertical-align:middle; margin-left:5px;"/>
 </h2>
 
 <pre>
@@ -76,8 +78,6 @@ Python Impressionador - Hashtag Treinamentos/
 │           └── (conteúdos dos módulos de estudo)
 ├── README.MD
 └── LICENSE (MIT) 
-<img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=instructure&logoColor=white" 
-     style="vertical-align:middle; margin-left:5px;"/>
 </pre>
 
 <h2 align="center">🎯 Objetivo do Repositório: </h2>
