@@ -30,12 +30,17 @@ produtos = ['BEB46275','TFA23962','TFA64715','TFA69555','TFA56743','BSA45510','T
 
 produtos_BEB = list()
 
-for indice_produto, (produto) in (enumerate(produtos)):
-    if (produto.startswith("BEB")):
-        produtos.remove(produto)
-        produtos_BEB.append(produto)
-for indice_bebidas_nao_alcoolicas, (bebidas_nao_alcoolicas) in (enumerate(produtos)): 
-    print(f"\n {Negrito}{indice_bebidas_nao_alcoolicas+1}º Produto não-alcóolico: {bebidas_nao_alcoolicas[0:]}{Reset}")
+def bebidas():
+    for indice_produto, (produto) in (enumerate(produtos)):
+        if produto.startswith("Beb".upper()):
+            produtos.remove(produto)
+            produtos_BEB.append(produto)
 
-for indice_bebidas_alcoolicas, (bebidas_alcoolicas) in (enumerate(produtos_BEB)):
-    print(f"\n {Negrito}{indice_bebidas_alcoolicas+1}º Produto alcóolico: {bebidas_alcoolicas[0:]}{Reset}")
+    for indice_bebidas_nao_alcoolicas, (bebidas_nao_alcoolicas) in enumerate(produtos): 
+        print(f"\n {Negrito}{indice_bebidas_nao_alcoolicas+1}º Produto não-alcóolico: {bebidas_nao_alcoolicas[0:]}{Reset}")
+
+    for indice_bebidas_alcoolicas, (bebidas_alcoolicas) in (enumerate(produtos_BEB)):
+        print(f"\n {Negrito}{indice_bebidas_alcoolicas+1}º Produto alcóolico: {bebidas_alcoolicas[0:]}{Reset}")
+
+estoque_separacao = bebidas()
+print(estoque_separacao)
