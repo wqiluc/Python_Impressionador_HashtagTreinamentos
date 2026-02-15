@@ -36,4 +36,6 @@ while True:
         lista_palavras.append(palavra)
         dicionario_palavras["Palavras"] = lista_palavras
 
-print(dicionario_palavras)
+for indice_palavra, (indice_dicionario) in enumerate(dicionario_palavras["Palavras"]):
+    print(f"{Azul}{indice_palavra+1}º Palavra:{Reset} {Magenta}{indice_dicionario.capitalize()}{Reset}{Negrito} -  Quantas letras:{Reset} {Amarelo}{len(indice_dicionario[0:])}{Reset}")
+    print(f"Quantas vezes aparece a {indice_palavra+1}º palavra aparece: {Reset}{Azul}{dicionario_palavras['Palavras'].count(indice_dicionario)}")
