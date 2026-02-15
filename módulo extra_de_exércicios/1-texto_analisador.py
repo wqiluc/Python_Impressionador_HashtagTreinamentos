@@ -12,7 +12,7 @@ Ignorar diferença entre maiúsculas e minúsculas.❌
 
 Não se preocupar com pontuação.""")
 
-# solução (EM ANDAMENTO)👇:
+# solução👇:
 from cores import *
 
 lista_palavras = list()
