@@ -89,26 +89,26 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
 <h2 align="center">⛏️💻 Ferramentas Utilizadas: </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/LabelEncoder-FF3333?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Train_Test_Split-111827?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/RandomForest-0B5ED7?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/KNN-0B5ED7?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Accuracy_Score-111827?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/IPyKernel-FF0000?style=for-the-badge&logo=python&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/NBFormat-111827?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/OpenPyXL-32CD32?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/-re%20(Python%20Regex)-red?style=flat-square&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/PyAutoGUI-FF4500?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Pyperclip-4B0082?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Emails%20automatizados%20com%20Python-FF0000?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/capta%C3%A7%C3%A3o%20de%20informa%C3%A7%C3%B5es%2Fdados%20em%20arquivos-FFD43B?style=for-the-badge&logo=python&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/LabelEncoder-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Train_Test_Split-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/RandomForest-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/KNN-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Accuracy_Score-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/IPyKernel-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/NBFormat-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/OpenPyXL-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Regex_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Pyperclip-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Emails_Automatizados_Python-3776AB?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Captação_de_Dados_em_Arquivos-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <br>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Versionamento-Git-F05032?style=for-the-badge&logo=git&logoColor=orange&labelColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Plataforma-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="28"/>
 </p>
