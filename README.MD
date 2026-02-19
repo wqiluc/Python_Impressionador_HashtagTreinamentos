@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<strong>Lucas Paguetti Pereira</strong> 🧙‍♂️  
+<strong>Lucas Paguetti Pereira</strong> 🦇 
 🏫 <strong>Instituição</strong>: Cesar School 🎓🧡  
 📍 Recife, Pernambuco — <strong>Brazil</strong> 🇧🇷  
 
@@ -90,8 +90,8 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/LabelEncoder-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
@@ -101,12 +101,12 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
   <img src="https://img.shields.io/badge/Accuracy_Score-4B0082?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/IPyKernel-DD0031?style=for-the-badge&logo=jupyter&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/NBFormat-4E4E4E?style=for-the-badge&logo=jupyter&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/📊 OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Regex_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/PyAutoGUI-FF4500?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Pyperclip-4B0082?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Emails_Automatizados_Python-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Emails_Automatizados_Python-EA4335?style=for-the-badge&logo=gmail&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Captação_de_Dados_em_Arquivos-FFD43B?style=for-the-badge&logo=python&logoColor=black" height="28"/>
   <br>
   <img src="https://img.shields.io/badge/Versionamento-Git-F05032?style=for-the-badge&logo=git&logoColor=orange&labelColor=black" height="28"/>
