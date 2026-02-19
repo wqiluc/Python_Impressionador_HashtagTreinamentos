@@ -103,6 +103,7 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
   <img src="https://img.shields.io/badge/NBFormat-111827?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/OpenPyXL-32CD32?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/-re%20(Python%20Regex)-red?style=flat-square&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/PyAutoGUI-FF4500?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Pyperclip-4B0082?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Emails%20automatizados%20com%20Python-FF0000?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
