@@ -5,20 +5,20 @@
 
 
 <p align="center">
-<img src="img/Hashtag_logo2.jpeg" alt="Logo centro">
+<img src="img/Hashtag_logo2.jpeg" alt="Logo centro" width="480">
 </p>
 
 <p align="center">
   Repositório de estudos avançado em Python, com foco em: Automações, análise de dados, integração de e-mails, manipulação de arquivos,boas práticas de programação e muito mais. 💻 
   <br><br>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black" width="75"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black" width="75"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black" width="75"/>
 </p>
 
 <h2 align="center">👨🏻‍💻 Autor deste Repositório: </h2>
 
 <div align="center">
 
-<strong>Lucas Paguetti Pereira</strong> 🦇 
+<strong>Lucas Paguetti Pereira</strong> 🦇 <br>
 🏫 <strong>Instituição</strong>: Cesar School 🎓🧡  
 📍 Recife, Pernambuco — <strong>Brazil</strong> 🇧🇷  
 
@@ -63,21 +63,36 @@
 </div>
 
 <h2 align="center">
-  🏛️ Arquitetura do Projeto: <br>
+  🏛️ Arquitetura do Repositório: <br>
   <img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=instructure&logoColor=white" 
      style="vertical-align:middle; margin-left:5px;"/>
 </h2>
 
 <pre>
-Python Impressionador - Hashtag Treinamentos/
-├── img/ 
-│   └── Hashtag_logo.jpeg
+Python_Impressionador_HashtagTreinamentos/
+├── img/ <img src="https://img.shields.io/badge/Assets-Imagens-blueviolet?style=flat-square&logo=git-lfs" height="18">
+│   ├── Hashtag_logo.jpeg
 │   └── Hashtag_logo2.jpeg
-├── módulos/
-│       └──módulo(1,2,3,4,5..., cores.py, exércicios_do_módulo.py e .ipynb)/
-│           └── (conteúdos dos módulos de estudo)
-├── README.MD
-└── LICENSE (MIT) 
+├── license/
+│   └── LICENSE <img src="https://img.shields.io/badge/Legal-MIT_License-green?style=flat-square" height="18">
+├── git/
+│   └── .gitignore <img src="https://img.shields.io/badge/Config-Git-F05032?style=flat-square&logo=git" height="18">
+|
+|
+├── modulo_01/ <img src="https://img.shields.io/badge/Módulo_01-Fundamentos-blue?style=flat-square&logo=python" height="18">
+│   ├── .ipynb/ <img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter" height="16">
+│   └── .python/ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" height="16">
+├── modulo_02/ <img src="https://img.shields.io/badge/Módulo_02-Estruturas-blue?style=flat-square&logo=python" height="18">
+│   ├── .ipynb/ <img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter" height="16">
+│   └── .python/ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" height="16">
+├── ...
+├── modulo_XX/ <img src="https://img.shields.io/badge/Módulo_...-Em_Progresso-lightgrey?style=flat-square&logo=python" height="18">
+│   ├── .ipynb/ <img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter" height="16">
+│   └── .python/ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" height="16">
+├── modulo_extra_de_bonus/ <img src="https://img.shields.io/badge/Extra-Bônus-blue?style=flat-square&logo=python" height="18">
+│   ├── .ipynb/ <img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter" height="16">
+│   └── .python/ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" height="16">
+└── README.md <img src="https://img.shields.io/badge/Doc-Markdown-lightgrey?style=flat-square&logo=markdown" height="18">
 </pre>
 
 <h2 align="center">🎯 Objetivo do Repositório: </h2>
@@ -89,7 +104,7 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
 <h2 align="center">⛏️💻 Ferramentas Utilizadas: </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
@@ -111,4 +126,5 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
   <br>
   <img src="https://img.shields.io/badge/Versionamento-Git-F05032?style=for-the-badge&logo=git&logoColor=orange&labelColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Plataforma-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-6F42C1?style=for-the-badge&logo=github&logoColor=white" height="29"/>
 </p>
