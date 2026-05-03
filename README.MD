@@ -104,7 +104,7 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
 <h2 align="center">⛏️💻 Ferramentas Utilizadas: </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br><br>
   <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
@@ -126,8 +126,8 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
   <img src="https://img.shields.io/badge/CSV_Automação-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai&logoColor=412991"/>
   <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
-  <img src="https://img.shields.io/badge/Chat_Completions-111827?style=flat-square&logo=python&logoColor=0B5ED7"/> <br>
-  <img src="https://img.shields.io/badge/Session_State-111827?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chat_Completions-111827?style=flat-square&logo=python&logoColor=0B5ED7"/>
+  <img src="https://img.shields.io/badge/Session_State-111827?style=flat-square&logo=python&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Desktop-111827?style=flat-square&logo=github&logoColor=6F42C1"/>
