@@ -103,8 +103,8 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
 
 <h2 align="center">⛏️💻 Ferramentas Utilizadas: </h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br><br>
   <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
@@ -113,6 +113,7 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
   <img src="https://img.shields.io/badge/NBFormat-111827?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/IPyKernel-111827?style=flat-square&logo=jupyter&logoColor=DD0031"/>
   <img src="https://img.shields.io/badge/OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
+  <img src="https://img.shields.io/badge/Lambda-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
   <img src="https://img.shields.io/badge/LabelEncoder-111827?style=flat-square&logo=python&logoColor=FF3333"/>
   <img src="https://img.shields.io/badge/Train_Test_Split-111827?style=flat-square&logo=python&logoColor=white"/>
@@ -124,7 +125,20 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
   <img src="https://img.shields.io/badge/Smtplib-111827?style=flat-square&logo=gmail&logoColor=EA4335"/>
   <img src="https://img.shields.io/badge/WhatsApp-111827?style=flat-square&logo=whatsapp&logoColor=25D366"/>
   <img src="https://img.shields.io/badge/CSV_Automação-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai&logoColor=412991"/>
+  <img src="https://img.shields.io/badge/PyPDF2-111827?style=flat-square&logo=python&logoColor=EC1C24"/>
+  <img src="https://img.shields.io/badge/python--docx-111827?style=flat-square&logo=python&logoColor=2B579A"/>
+  <img src="https://img.shields.io/badge/Pathlib-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/OS_Module-111827?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shutil-111827?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square&logo=python&logoColor=D71F00"/>
+  <img src="https://img.shields.io/badge/Selenium-111827?style=flat-square&logo=selenium&logoColor=43B02A"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup4-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Requests-111827?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤖OpenAI_API-111827?style=flat-square&logo=openai&logoColor=412991"/>
   <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
   <img src="https://img.shields.io/badge/Chat_Completions-111827?style=flat-square&logo=python&logoColor=0B5ED7"/>
   <img src="https://img.shields.io/badge/Session_State-111827?style=flat-square&logo=python&logoColor=white"/><br>
