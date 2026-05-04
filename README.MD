@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Repositório de estudos avançado em Python, com foco em: Automações, análise de dados, integração de e-mails, manipulação de arquivos,boas práticas de programação e muito mais. 💻 
+  Repositório de estudos avançado em Python, com foco em: <b>Automações, Análise de Dados, Integrações, Manipulação de Arquivos, Boas Práticas de Programação e muito mais 💻</b> 
   <br><br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black" width="75"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black" width="75"/>
 </p>
@@ -64,20 +64,19 @@
 
 <h2 align="center">
   🏛️ Arquitetura do Repositório: <br>
-  <img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=instructure&logoColor=white" 
+  <img src="https://img.shields.io/badge/-Achitecture-111827?style=flat-square&logo=instructure&logoColor=white" 
      style="vertical-align:middle; margin-left:5px;"/>
 </h2>
 
 <pre>
 Python_Impressionador_HashtagTreinamentos/
-├── img/ <img src="https://img.shields.io/badge/Assets-Imagens-blueviolet?style=flat-square&logo=git-lfs" height="18">
+├── img/ <img src="https://img.shields.io/badge/Assets-Imagens-red?style=flat-square&logo=git-lfs" height="18">
 │   ├── Hashtag_logo.jpeg
 │   └── Hashtag_logo2.jpeg
 ├── license/
-│   └── LICENSE <img src="https://img.shields.io/badge/Legal-MIT_License-green?style=flat-square" height="18">
+│   └── LICENSE <img src="https://img.shields.io/badge/Legal-MIT_License-orange?style=flat-square" height="18">
 ├── git/
 │   └── .gitignore <img src="https://img.shields.io/badge/Config-Git-F05032?style=flat-square&logo=git" height="18">
-|
 |
 ├── modulo_01/ <img src="https://img.shields.io/badge/Módulo_01-Fundamentos-blue?style=flat-square&logo=python" height="18">
 │   ├── .ipynb/ <img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter" height="16">
@@ -85,7 +84,7 @@ Python_Impressionador_HashtagTreinamentos/
 ├── modulo_02/ <img src="https://img.shields.io/badge/Módulo_02-Estruturas-blue?style=flat-square&logo=python" height="18">
 │   ├── .ipynb/ <img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter" height="16">
 │   └── .python/ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" height="16">
-├── ...
+|
 ├── modulo_XX/ <img src="https://img.shields.io/badge/Módulo_...-Em_Progresso-lightgrey?style=flat-square&logo=python" height="18">
 │   ├── .ipynb/ <img src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter" height="16">
 │   └── .python/ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" height="16">
@@ -98,7 +97,7 @@ Python_Impressionador_HashtagTreinamentos/
 <h2 align="center">🎯 Objetivo do Repositório: </h2>
 
 <p align="center">
-Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Python</strong>, desenvolvendo habilidades de programação estruturada, automação, análise de dados e boas práticas profissionais, preparando para criar soluções robustas, reais e eficientes ✅🔖.
+Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Python</strong>, desenvolvendo habilidades de programação estruturada, automação, análise de dados e boas práticas profissionais, preparando para criar <b>soluções e arquiteturas robustas, atemporais e eficientes</b> ✅🔖.
 </p>
 
 <h2 align="center">⛏️💻 Ferramentas Utilizadas: </h2>
@@ -124,6 +123,8 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
   <img src="https://img.shields.io/badge/Pyperclip-111827?style=flat-square&logo=python&logoColor=E066FF"/>
   <img src="https://img.shields.io/badge/Smtplib-111827?style=flat-square&logo=gmail&logoColor=EA4335"/>
   <img src="https://img.shields.io/badge/WhatsApp-111827?style=flat-square&logo=whatsapp&logoColor=25D366"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSV_Files-111827?style=flat-square&logo=-data-&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/CSV_Automação-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/PyPDF2-111827?style=flat-square&logo=python&logoColor=EC1C24"/>
   <img src="https://img.shields.io/badge/python--docx-111827?style=flat-square&logo=python&logoColor=2B579A"/>
