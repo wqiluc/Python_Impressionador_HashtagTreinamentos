@@ -127,6 +127,8 @@ Este repositório tem como objetivo aprofundar os conhecimentos em <strong>Pytho
   <img src="https://img.shields.io/badge/CSV_Files-111827?style=flat-square&logo=-data-&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/CSV_Automação-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/PyPDF2-111827?style=flat-square&logo=python&logoColor=EC1C24"/>
+  <img src="https://img.shields.io/badge/QR_Code-111827?style=flat-square&logo=python&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Gerador_de_Senhas-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/python--docx-111827?style=flat-square&logo=python&logoColor=2B579A"/>
   <img src="https://img.shields.io/badge/Pathlib-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/OS_Module-111827?style=flat-square&logo=python&logoColor=white"/>
