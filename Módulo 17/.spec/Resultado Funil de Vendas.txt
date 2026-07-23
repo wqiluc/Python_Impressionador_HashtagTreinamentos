@@ -1,0 +1,8 @@
+Total de alunos: 500
+Vieram de anúncio: 297
+Vieram orgânico: 203
+Melhor fonte orgânica: YouTube (115 alunos)
+  Site: 73
+  YouTube: 115
+  Instagram ou Facebook: 0
+  Instagram: 15
